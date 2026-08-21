@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "为什么你的 Spring Boot 项目还只是接口服务器，而 GPT 已经开始“上班”了？",
+    "author": "蒸呖胔",
+    "time": "2026年08月22日00时35分19秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "Kimi K3 真实体验：全网评价整理，优缺点一次性说清楚",
+  "description": "美加墨世界杯留下启示，“巨星依赖”终究输给了团队足球",
+  "about": {
+    "@type": "Thing",
+    "name": "piaorou.piaorou.piaorou"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "服务员帮人传话叫女子去包厢",
+    "description": "内容页的详细描述，可包含piaorou.piaorou.piaorou的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "傺禥岓"
+    },
+    "datePublished": "2026年08月22日00时35分19秒",
+    "dateModified": "2026年08月22日00时35分19秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "网络上常见的热门短视频集锦 第三千三百一十八期",
+      "url": "http://piaorou.piaorou.piaorou/Article/details/259937.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "分享一下自己小基数成功瘦了快10斤的方法",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/109956.sHtML"
+    },
+{
+      "platform": "特朗普称将收取霍尔木兹海峡货运20%费用；伊朗重申不会允许美国干涉海峡的管理；",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/538246.sHtML"
+    },
+{
+      "platform": "如何看待现在很多人挪用诸如“能量”“磁场”这种物理学词汇，当成功利主义玄学用语？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/424026.sHtML"
+    },
+{
+      "platform": "詹姆斯下家2选1：联盟高管普遍认为是骑士或勇士 各存3大优势",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/272285.sHtML"
+    },
+{
+      "platform": "挪车二维码生成工具V1.0",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/942515.sHtML"
+    },
+{
+      "platform": "2009年、中国西藏和长江流域地区发生21世纪内最大规模日全食",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/168775.sHtML"
+    },
+{
+      "platform": "杨瀚森夏联爆砍18分10板",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/676218.sHtML"
+    },
+{
+      "platform": "无畏契约7月16日周年版本更新",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/702565.sHtML"
+    },
+{
+      "platform": "WinRAR 7.23_x64 简体中文商业无广告版",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/961024.sHtML"
+    },
+    {
+      "platform": "7万多买37件香奈儿3个月没到手",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/806211.sHtML"
+    },
+{
+      "platform": "他靠一张脸养活了整个公司，他这个钱一般人挣不了",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/735742.sHtML"
+    },
+{
+      "platform": "NAS、服务器、后台地址太多：给自己做一个随时能打开的私人导航台",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/555749.sHtML"
+    },
+{
+      "platform": "西班牙山火持续蔓延 高温加大灭火难度",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/668095.sHtML"
+    },
+{
+      "platform": "消息称台积电计划 2027 年起将芯片代工价格提高最多 10%",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/793276.sHtML"
+    },
+{
+      "platform": "1928年、彭德怀发动平江起义",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/321383.sHtML"
+    },
+{
+      "platform": "小时候看这集被送歼星舰了",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/501089.sHtML"
+    },
+{
+      "platform": "菲方先动手倒打一耙",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/878281.sHtML"
+    },
+{
+      "platform": "全网晒功夫女足票根",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/935489.sHtML"
+    },
+{
+      "platform": "河南西瓜滞销，瓜农拉了2200斤西瓜，收瓜贩只出价20块全部买走，平均下来一斤不到1分钱。",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/976523.sHtML"
+    },
+    {
+      "platform": "AI公司的数据中心越建越多，最先紧缺的是沙子",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/604084.sHtML"
+    },
+{
+      "platform": "微软数万名工程师实测：AI Agent 让 PR 多了 24%，但 Java 团队真正麻烦的事才刚开始",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/367519.sHtML"
+    },
+{
+      "platform": "苹果回应 Epic 反对暂停 App Store 佣金诉讼：对方论点存在谬误",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/228483.sHtML"
+    },
+{
+      "platform": "中国驻孟加拉国大使馆：提醒中国公民谨慎来孟娶妻",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/212412.sHtML"
+    },
+{
+      "platform": "“养老服务师考试10月开考”不实",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/033731.sHtML"
+    },
+{
+      "platform": "巴威外围已影响东北",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/836199.sHtML"
+    },
+{
+      "platform": "厄尔尼诺强度创纪录",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/321931.sHtML"
+    },
+{
+      "platform": "哈兰德回国带浣熊标本：它跟我回家了",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/025311.sHtML"
+    },
+{
+      "platform": "亚马尔：无惧法国 我们是欧洲冠军",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/759982.sHtML"
+    },
+{
+      "platform": "足协杯上海申花4:1青岛海牛",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/056334.sHtML"
+    },
+    {
+      "platform": "反向思考：一个健康的普通人，如何才能快速地患上糖尿病？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/360744.sHtML"
+    },
+{
+      "platform": "大量猫咪后肢瘫痪，闯祸的是猫粮吗？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/660594.sHtML"
+    },
+{
+      "platform": "阿根廷3次夺冠争议复盘",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/278787.sHtML"
+    },
+{
+      "platform": "AR 先驱企业 Magic Leap 转型成为 AI 智能眼镜光波导技术供应商，同步宣布裁员近 200 人",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/890375.sHtML"
+    },
+{
+      "platform": "从《八仙！》上映来说，八仙有八个人，为何多数影视剧中八仙的故事，总是以吕洞宾当第一主角？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/598674.sHtML"
+    },
+{
+      "platform": "窄脸才能驾驭这个瘦脸面具",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/273995.sHtML"
+    },
+{
+      "platform": "新台风将生成 27日前后影响华南",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/389607.sHtML"
+    },
+{
+      "platform": "导演陆川称 AI 生成像预制菜，自己正利用 AI 同时推进五部电影筹备",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/448503.sHtML"
+    },
+{
+      "platform": "小时候吃的很多水果慢慢消失",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/724043.sHtML"
+    },
+{
+      "platform": "搜狗输入法清理工具-支持任意版本",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/047766.sHtML"
+    },
+    {
+      "platform": "快评丨AI生成的图、人类评选的奖，这份“默契”太讽刺",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/406396.sHtML"
+    },
+{
+      "platform": "AI用两天想出科学家十年的结论！谷歌DeepMind看到最大瓶颈",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/458400.sHtML"
+    },
+{
+      "platform": "360清理优化 V14 2026.7更新 纯净典藏版",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/790789.sHtML"
+    },
+{
+      "platform": "奥特曼不断与科技巨头决裂",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/817656.sHtML"
+    },
+{
+      "platform": "张军桥获颁感动中国2025年度人物",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/692354.sHtML"
+    },
+{
+      "platform": "媒体：孩子们的人生不能交给野路子",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/087242.sHtML"
+    },
+{
+      "platform": "智谱再跌近 20%，市值跌至 4146 亿港元；传 iPad mini 将迎重大升级；张雪机车预告首款「电摩」｜极客早知道",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/681153.sHtML"
+    },
+{
+      "platform": "金巧巧直播喊话：“沈阳的那个谁，你欠我爸爸60万，赶紧还钱！”原来她的难，你想不到",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/426968.sHtML"
+    },
+{
+      "platform": "ADG：智能体依赖图谱，看清 Agent 能力边界",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/352437.sHtML"
+    },
+{
+      "platform": "宜家集中出售上海、广州、天津等8城自持闲置物业，近30年最大规模；",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/976936.sHtML"
+    },
+    {
+      "platform": "中级OpenGL教程 017：几何体复用、材质区分与坐标变换详解",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/984312.sHtML"
+    },
+{
+      "platform": "财报前夕，特斯拉将 Robotaxi 自动驾驶出租车服务扩展至美国奥兰多和坦帕",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/347279.sHtML"
+    },
+{
+      "platform": "女子发现屋顶流血水 撬开发现惊人一幕",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/010787.sHtML"
+    },
+{
+      "platform": "李小璐被指疑似生二胎",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/057665.sHtML"
+    },
+{
+      "platform": "在三亚的小时光，与美食相伴，听海浪拍岸",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/494782.sHtML"
+    },
+{
+      "platform": "一口酸菜鱼吃透淮南烟火气",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/830219.sHtML"
+    },
+{
+      "platform": "小区花370万维修消防设施验收后漏水",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/688783.sHtML"
+    },
+{
+      "platform": "49岁波尔加尔拒绝出任匈牙利总统 系女子国际象棋大师",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/822022.sHtML"
+    },
+{
+      "platform": "赔光2亿分房3年还没完！冉莹颖再爆猛料，亲手撕下邹市明仅剩体面",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/293378.sHtML"
+    },
+{
+      "platform": "今日辟谣｜“鄂州龙卷风城区8人遇难”不实",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/662303.sHtML"
+    },
+    {
+      "platform": "Vercel 发布 AI SDK 5，引入语音 API；Ollama 新版本支持多模态交互 丨日报",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/790673.sHtML"
+    },
+{
+      "platform": "让 Agent 按工程标准交付：AI Coding 下的质量关卡实践",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/711745.sHtML"
+    },
+{
+      "platform": "上半年最推荐的6本女性书籍（主历史）",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/890470.sHtML"
+    },
+{
+      "platform": "M87黑洞首获谱指数图像",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/672219.sHtML"
+    },
+{
+      "platform": "特朗普转变态度力挺乌克兰有何意图",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/121215.sHtML"
+    },
+{
+      "platform": "【其他】尼古猫猫OP的Neta含量，真是不得了!!（出处对比视频）",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/642800.sHtML"
+    },
+{
+      "platform": "完蛋！比 Vite+ 快 5.4 倍的前端工具链！正式发布！",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/265016.sHtML"
+    },
+{
+      "platform": "韩红基金会回应“救护车在西藏越野爬坡”",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/805138.sHtML"
+    },
+{
+      "platform": "小说伪装为代码 - 上班摸鱼看小说神器",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/205079.sHtML"
+    },
+{
+      "platform": "人间极品晶瑶，就问你爱了吗？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/355994.sHtML"
+    },
+    {
+      "platform": "问到你想清楚，这个 skill 专治没想明白就写代码！",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/527118.sHtML"
+    },
+{
+      "platform": "今日入伏，牢记：1不出，2要满，3多吃，忌2事，应季而养平安度伏",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/822582.sHtML"
+    },
+{
+      "platform": "这一秒过火路透vs正片",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/543330.sHtML"
+    },
+{
+      "platform": "西班牙率先晋级决赛",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/531923.sHtML"
+    },
+{
+      "platform": "星爷剧组餐被赞行业天花板",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/750833.sHtML"
+    },
+{
+      "platform": "刘耀文唱RNB像开净化了",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/055186.sHtML"
+    },
+{
+      "platform": "MVI模式的完整历史、误解和现代Android范式",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/276870.sHtML"
+    },
+{
+      "platform": "ig博主都在穿的夏季薄底鞋款式",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/585544.sHtML"
+    },
+{
+      "platform": "1291年、神圣罗马帝国皇帝鲁道夫一世去世",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/909811.sHtML"
+    },
+{
+      "platform": "“Apple Store 之父”罗恩 · 约翰逊：乔布斯之所以出色，是因为他懂得放权",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/501350.sHtML"
+    },
+    {
+      "platform": "【阜成门外】美国媒体，这次服了中国电网",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/544449.sHtML"
+    },
+{
+      "platform": "全国文旅把户外亲子卷起来了",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/377802.sHtML"
+    },
+{
+      "platform": "红果回应“取消漫剧栏目”传闻：不实，少数网友反馈情况为常规功能性测试",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/965244.sHtML"
+    },
+{
+      "platform": "不用 LangChain，手搓 AI Agent：给大模型装上“手”，让它自己读项目文件",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/808753.sHtML"
+    },
+{
+      "platform": "他们宁愿住核电站旁边，也不愿住AI数据中心附近",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/815876.sHtML"
+    },
+{
+      "platform": "韩国向乌克兰提供一亿美元援助，这对俄罗斯有何影响？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/416454.sHtML"
+    },
+{
+      "platform": "为什么日韩人民突然同步爱吃麻辣烫了？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/193592.sHtML"
+    },
+{
+      "platform": "台风巴威对东北影响有多大",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/005658.sHtML"
+    },
+{
+      "platform": "3位工程师靠“删AI代码”创业，一周收费1万美元：以后最贵的能力，可能不是写代码",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/229190.sHtML"
+    },
+{
+      "platform": "挑战在美国E人coser前跳舞",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/389196.sHtML"
+    },
+    {
+      "platform": "石宇奇经历冲击跌宕起伏",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/147363.sHtML"
+    },
+{
+      "platform": "降价20%迎战思格，固德威押上了2026年的全部",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/797428.sHtML"
+    },
+{
+      "platform": "GPT-5.6与Codex合并：OpenAI不再做'瑞士军刀'，要做'工具箱'",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/662021.sHtML"
+    },
+{
+      "platform": "省Token，先把这三件事做好",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/028892.sHtML"
+    },
+{
+      "platform": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/062658.sHtML"
+    },
+{
+      "platform": "漫威电影《复仇者联盟 5：毁灭之日》片长 165 分钟，仅次于《终局之战》",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/146824.sHtML"
+    },
+{
+      "platform": "HarmonyOS 文件预览服务进阶指南（1）",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/035679.sHtML"
+    },
+{
+      "platform": "智能体手机热闹登场WAIC，最难的一关还在底层",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/888957.sHtML"
+    },
+{
+      "platform": "甘肃宕昌山体滑坡已找到21名被困人员，5人经抢救无效死亡",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/390669.sHtML"
+    },
+{
+      "platform": "硬刚！怀特塞德正式发声，强调伤病替卢伟解围，媒体人：收回荣誉",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/841050.sHtML"
+    },
+    {
+      "platform": "锐评功夫女足优缺点",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/444813.sHtML"
+    },
+{
+      "platform": "长沙“网推律所”乱象调查",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/757545.sHtML"
+    },
+{
+      "platform": "谁来救救瘦子在夏天的食欲",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/839215.sHtML"
+    },
+{
+      "platform": "押注200元的银发一日游，中青旅是真急了",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/292069.sHtML"
+    },
+{
+      "platform": "【Linux篇】从虚拟到物理的地址翻译之路——进程地址空间与页表机制详解",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/424352.sHtML"
+    },
+{
+      "platform": "AI生成图片被评摄影一等奖 官方通报",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/188976.sHtML"
+    },
+{
+      "platform": "在体制内干了5年以上的JRs，哪一刻让你最想辞职，最后为什么又留下来了？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/440241.sHtML"
+    },
+{
+      "platform": "SpringBoot + 微信支付实现「扫码开门，取货自动扣款」智能售货柜",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/682587.sHtML"
+    },
+{
+      "platform": "26岁女子公司体检才知自己是男性",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/420916.sHtML"
+    },
+{
+      "platform": "突发！让张益唐苦熬七年的雅可比猜想，Fable 5竟一夜推翻证伪",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/701400.sHtML"
+    },
+    {
+      "platform": "SQL 语法全兼容，但结果就是不一样——国产化迁移里最难缠的九类隐患",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/758026.sHtML"
+    },
+{
+      "platform": "女生带3箱行李来重庆 大叔收10元帮搬",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/730297.sHtML"
+    },
+{
+      "platform": "英伟达被曝大规模收购美国暗光纤资源，潜在带宽达 7.6 Pb/s",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/036955.sHtML"
+    },
+{
+      "platform": "美方泼脏水 中国坚决反对",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/765627.sHtML"
+    },
+{
+      "platform": "广西抗洪中爆火的救援航母已返湘",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/764307.sHtML"
+    },
+{
+      "platform": "AI 编程普及，初学者还要不要学习基础语法？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/698455.sHtML"
+    },
+{
+      "platform": "语音朗读（给孩子报听写用）",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/634623.sHtML"
+    },
+{
+      "platform": "老乡鸡五年五次冲击上市失败",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/179858.sHtML"
+    },
+{
+      "platform": "魏建军回应长城汽车利润下降：更在意健康发展",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/048429.sHtML"
+    },
+{
+      "platform": "从193跌到65港元，两倍做多海力士ETF，12个交易日跌去近七成",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/977240.sHtML"
+    },
+    {
+      "platform": "国家队这么生拉硬拽，后面几天又要泥沙俱下咯",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/825559.sHtML"
+    },
+{
+      "platform": "天齐锂业 2026 年半年度归母净利润 28.5 亿元～ 42.5 亿元，同比增长 3276.35%~4934.91%",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/220175.sHtML"
+    },
+{
+      "platform": "抖音集团基于Paimon的流式数据湖应用实践",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/041856.sHtML"
+    },
+{
+      "platform": "伊朗总统：已进入“全面战争” 特朗普：报复指令已经下达给防长和每一位军方将领",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/619650.sHtML"
+    },
+{
+      "platform": "喜羊羊老板的换电梦，亏14亿也要冲击IPO",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/163417.sHtML"
+    },
+{
+      "platform": "【Linux网络】深入理解Linux IO多路复用：从本质到select服务器实战",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/785142.sHtML"
+    },
+{
+      "platform": "男孩抱错人女孩护母",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/496577.sHtML"
+    },
+{
+      "platform": "专家：黄金已严重超卖",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/219742.sHtML"
+    },
+{
+      "platform": "女生真的应该练力量",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/196125.sHtML"
+    },
+{
+      "platform": "一台主机双屏显示器来回切换小程序",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/976681.sHtML"
+    },
+    {
+      "platform": "10万人都在用的 top10 skills，我帮你试了！",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/840796.sHtML"
+    },
+{
+      "platform": "1888年、俄国微生物学家、生物化学家瓦克斯曼诞生",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/019088.sHtML"
+    },
+{
+      "platform": "郑钦文雅典赛开门红",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/084477.sHtML"
+    },
+{
+      "platform": "俄罗斯对华免签政策延长至2027年12月31日；",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/415796.sHtML"
+    },
+{
+      "platform": "英法德等九国与乌克兰签署联合声明，宣布组建新联盟",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/908682.sHtML"
+    },
+{
+      "platform": "德明利 2026 年半年度归母净利润 57 亿元 - 65 亿元，同比扭亏为盈",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/841374.sHtML"
+    },
+{
+      "platform": "中国新型抗癌药数量超美国",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/934518.sHtML"
+    },
+{
+      "platform": "探出天窗拍视频被罚",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/241871.sHtML"
+    },
+{
+      "platform": "个人养老金缴费水平将提高",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/027648.sHtML"
+    },
+{
+      "platform": "当收银台只剩小绿盒：内卷风刮到支付行业",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/877621.sHtML"
+    },
+    {
+      "platform": "陈都灵新剧造型 不符合人设",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/105840.sHtML"
+    },
+{
+      "platform": "X Fold6 折叠旗舰正式发布，vivo与联发科联手革新大屏AI生产力体验",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/343143.sHtML"
+    },
+{
+      "platform": "法国是世界杯被判点球最多的球队",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/052836.sHtML"
+    },
+{
+      "platform": "菲方恶意攻击致中方人员受伤",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/563800.sHtML"
+    },
+{
+      "platform": "消息称 DeepSeek 以 710 亿美元投前估值开启新一轮融资初步谈判",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/287758.sHtML"
+    },
+{
+      "platform": "香港三大贼王覆灭记《树大招风》从来只有我抢人，没人能抢我！",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/318267.sHtML"
+    },
+{
+      "platform": "《感动中国》2025年度人物：隐蔽战线在台牺牲英烈",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/927922.sHtML"
+    },
+{
+      "platform": "赤裸裸造假！央视曝光：县镇村三级应付检查，种植面积竟成数字游戏",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/108322.sHtML"
+    },
+{
+      "platform": "猎空舞，但我是十年老Dva",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/014054.sHtML"
+    },
+{
+      "platform": "河北农民撒药护苗毒死邻居家 15 只羊获刑 4 年，这一判决合理吗？自家地撒药为何构成投放危险物质罪？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/534992.sHtML"
+    },
+    {
+      "platform": "人类刚赢一次，AI一天就反杀！爆火「幽灵字体」被一句话攻破",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/465846.sHtML"
+    },
+{
+      "platform": "长鑫科技：网上投资者放弃认购658万股",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/024444.sHtML"
+    },
+{
+      "platform": "马宁将考虑是否退役",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/004087.sHtML"
+    },
+{
+      "platform": "干部占车位，网友质疑通报有失偏颇，长沙体育局：系以事实为依据",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/530312.sHtML"
+    },
+{
+      "platform": "菲律宾为何此时在仁爱礁制造冲突",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/323582.sHtML"
+    },
+{
+      "platform": "露露饮料被曝成分虚标",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/452452.sHtML"
+    },
+{
+      "platform": "评论员：俄军把乌克兰军工王牌废了",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/816498.sHtML"
+    },
+{
+      "platform": "暴雨洪涝保险理赔已赔付28.9亿元",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/455371.sHtML"
+    },
+{
+      "platform": "美联邦调查局局长计划今秋访俄",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/229286.sHtML"
+    },
+{
+      "platform": "呼和浩特全民摄影双月赛“AI 生成环卫工照片获一等奖”引争议，比赛主办方回应“正进行调查”",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/545568.sHtML"
+    },
+    {
+      "platform": "Vue 开发：前端路由权限 + 按钮权限完整方案",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/179144.sHtML"
+    },
+{
+      "platform": "两大核心城市新房库存不足1年",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/368698.sHtML"
+    },
+{
+      "platform": "经典重温，木村翔tko邹市明",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/958401.sHtML"
+    },
+{
+      "platform": "好耶！是OL姐姐给你跳舞！",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/658583.sHtML"
+    },
+{
+      "platform": "这才是真正的基本盘！韩国人真的爱国！为国接盘，外资一个劲抛，韩国老百姓贷款接盘……",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/825124.sHtML"
+    },
+{
+      "platform": "工人高空作业副绳疑遭割断",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/445850.sHtML"
+    },
+{
+      "platform": "海关总署：上半年中美货物贸易总值2万亿元",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/928175.sHtML"
+    },
+{
+      "platform": "10年老JR想离婚了，家人们帮忙分析下",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/891096.sHtML"
+    },
+{
+      "platform": "美媒称日本针对俄中朝成立情报机构",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/172031.sHtML"
+    },
+{
+      "platform": "扩内需六大任务，促进服务消费排首位",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/723916.sHtML"
+    },
+    {
+      "platform": "胶州湾第二海底隧道迎来新进展",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/114318.sHtML"
+    },
+{
+      "platform": "刚刚，Claude设计“大脑”走了，马斯克再下一城",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/631909.sHtML"
+    },
+{
+      "platform": "本届世界杯最闷声发大财的人是他",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/768414.sHtML"
+    },
+{
+      "platform": "网信办出手：整治AI毒动画、炒作网红儿童等乱象；",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/040758.sHtML"
+    },
+{
+      "platform": "为什么科黑里有很多非詹密，而詹黑里很少有非科密呢？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/613230.sHtML"
+    },
+{
+      "platform": "金价为什么上蹿下跳",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/081762.sHtML"
+    },
+{
+      "platform": "综合立体交通网超600万公里",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/341015.sHtML"
+    },
+{
+      "platform": "某银行员工群内发表“劲爆”离职感言！",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/432359.sHtML"
+    },
+{
+      "platform": "当你知道了一个人的秘密",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/405924.sHtML"
+    },
+{
+      "platform": "LV起诉国家知识产权局",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/310047.sHtML"
+    },
+    {
+      "platform": "中美女排大战14人名单敲定",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/028474.sHtML"
+    },
+{
+      "platform": "小初高电子教材下载 tchMaterial-parser v3.3.4",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/795721.sHtML"
+    },
+{
+      "platform": "美国 FAA 推进监管改革，推动电动空中出租车与超音速飞机商业化落地",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/831649.sHtML"
+    },
+{
+      "platform": "香港警方拘捕78人检获超50万毒品",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/922948.sHtML"
+    },
+{
+      "platform": "华卓精科重启IPO：年营收6.6亿，净亏9595万，拟募资35亿",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/717952.sHtML"
+    },
+{
+      "platform": "影视飓风怼恶意解读",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/104606.sHtML"
+    },
+{
+      "platform": "退钱哥晒世界杯球票账单",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/149399.sHtML"
+    },
+{
+      "platform": "超强厄尔尼诺真要来",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/672620.sHtML"
+    },
+{
+      "platform": "TCL 华星自研 AGLR 技术正式进入 MLED 规模化实际应用阶段",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/219807.sHtML"
+    },
+{
+      "platform": "文件传输助手V2.1(最新版)7月13日更新 电脑手机局域网互传工具",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/650478.sHtML"
+    },
+    {
+      "platform": "重要的是记录，一支黑笔就够了",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/007314.sHtML"
+    },
+{
+      "platform": "拒绝被爆冷！马龙/许昕恶战5局3-2过关，晋级全锦赛男双8强冲冠",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/626974.sHtML"
+    },
+{
+      "platform": "破大防，新疆人你们背着我吃的也太好了吧？！",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/786645.sHtML"
+    },
+{
+      "platform": "一烧烤店员工用洗菜盆洗脚",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/276353.sHtML"
+    },
+{
+      "platform": "不懂就问，为什么阿根廷总能得到国际足联的保送？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/026286.sHtML"
+    },
+{
+      "platform": "三亚小众玩法 | 春天刚来，我便开始想念海边的漫时光",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/706546.sHtML"
+    },
+{
+      "platform": "AI 又又造词，Graph 就又要替代 Loop 了？",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/567849.sHtML"
+    },
+{
+      "platform": "宣城13元蛋炒饭自助，几十种菜品不限量吃到饱！",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/179986.sHtML"
+    },
+{
+      "platform": "《消逝的光芒：困兽》游戏取消 PS4/Xbox One 版发行计划，预购玩家将获全额退款",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/208630.sHtML"
+    },
+{
+      "platform": "张柏芝账号头像变黑",
+      "share_url": "http://piaorou.piaorou.piaorou/Article/details/355724.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+
+<hr></hr><br>
+<p>*报告生成时间：2026年08月22日00时35分19秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
